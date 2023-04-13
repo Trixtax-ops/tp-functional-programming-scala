@@ -1,0 +1,16 @@
+[debug] Running TaskDef(ClimateServiceTest, org.scalatest.tools.Framework$$anon$1@4ea2e9dc, false, [SuiteSelector])
+[info] ClimateServiceTest:
+[info] - containsWordGlobalWarming - non climate related words should return false
+[info] - isClimateRelated - climate related words should return true
+[info] - parseRawData
+[info] - Min - Max
+[info] - Min - Max by year
+[info] - Min max difference
+[info] - filterDecemberData
+[info] Run completed in 448 milliseconds.
+[info] Total number of tests run: 7
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	ClimateServiceTest

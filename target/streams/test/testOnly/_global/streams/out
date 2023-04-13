@@ -1,0 +1,10 @@
+[debug] Running TaskDef(ClimateServiceTest, org.scalatest.tools.Framework$$anon$1@18dce5c, false, [SuiteSelector])
+[info] ClimateServiceTest:
+[info] - isClimateRelated - climate related words should return true
+[info] Run completed in 568 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	ClimateServiceTest

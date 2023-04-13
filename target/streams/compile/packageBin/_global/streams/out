@@ -1,0 +1,29 @@
+[debug] Packaging C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\tp_2.12-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com
+[debug] 	com\github
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github
+[debug] 	com\github\polomarcus
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus
+[debug] 	com\github\polomarcus\main
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\main
+[debug] 	com\github\polomarcus\main\Main$.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\main\Main$.class
+[debug] 	com\github\polomarcus\main\Main.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\main\Main.class
+[debug] 	com\github\polomarcus\model
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\model
+[debug] 	com\github\polomarcus\model\CO2Record$.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\model\CO2Record$.class
+[debug] 	com\github\polomarcus\model\CO2Record.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\model\CO2Record.class
+[debug] 	com\github\polomarcus\utils
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\utils
+[debug] 	com\github\polomarcus\utils\ClimateService$.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\utils\ClimateService$.class
+[debug] 	com\github\polomarcus\utils\ClimateService.class
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\com\github\polomarcus\utils\ClimateService.class
+[debug] 	logback.xml
+[debug] 	  C:\Users\trist\OneDrive\Documents\EPF\4A\Semestre 2\Data processing developement\tp-main\data-engineering\tp-functional-programming-scala\target\scala-2.12\classes\logback.xml
+[debug] Done packaging.
