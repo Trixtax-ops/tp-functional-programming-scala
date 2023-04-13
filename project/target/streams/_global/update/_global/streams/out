@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/trist/OneDrive/Documents/EPF/4A/Semestre%202/Data%20processing%20developement/tp-main/data-engineering/tp-functional-programming-scala/project/"), "tp-functional-programming-scala-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug] Done updating ProjectRef(uri("file:/C:/Users/trist/OneDrive/Documents/EPF/4A/Semestre%202/Data%20processing%20developement/tp-main/data-engineering/tp-functional-programming-scala/project/"), "tp-functional-programming-scala-build")
