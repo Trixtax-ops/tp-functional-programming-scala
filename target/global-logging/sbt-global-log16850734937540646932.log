@@ -1,0 +1,20 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] ClimateServiceTest:
+[info] - containsWordGlobalWarming - non climate related words should return false
+[info] - isClimateRelated - climate related words should return true
+[info] - parseRawData
+[info] - filterDecemberData *** FAILED ***
+[info]   org.scalatest.exceptions.TestFailedException was thrown. (ClimateServiceTest.scala:35)
+[info] Run completed in 188 milliseconds.
+[info] Total number of tests run: 4
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 3, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	ClimateServiceTest
+[debug] Forcing garbage collection...
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful
+[error] Total time: 1 s, completed 12 avr. 2023, 12:52:46
+[debug] > Exec(idea-shell, None, None)
