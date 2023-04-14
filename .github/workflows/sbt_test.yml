@@ -18,6 +18,8 @@ jobs:
       uses: actions/setup-java@v2
       with:
         java-version: 17
+        distribution: 'adopt'
+
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
     - name: Run sbt test
