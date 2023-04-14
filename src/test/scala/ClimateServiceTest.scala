@@ -56,7 +56,6 @@ class ClimateServiceTest extends AnyFunSuite {
     val thirdRecord2 = (2005, 2, 379.37)
     val list2 = List(firstRecord2, secondRecord2, thirdRecord2)
 
-    // our output of our method "parseRawData"
     val co2RecordWithType21 = CO2Record(firstRecord2._1, firstRecord2._2, firstRecord2._3)
     val co2RecordWithType22 = CO2Record(secondRecord2._1, secondRecord2._2, secondRecord2._3)
     val co2RecordWithType23 = CO2Record(thirdRecord2._1, thirdRecord2._2, thirdRecord2._3)
@@ -75,7 +74,6 @@ class ClimateServiceTest extends AnyFunSuite {
     val thirdRecord2 = (2005, 2, 379.37)
     val list2 = List(firstRecord2, secondRecord2, thirdRecord2)
 
-    // our output of our method "parseRawData"
     val co2RecordWithType1 = CO2Record(firstRecord._1, firstRecord._2, firstRecord._3)
     val co2RecordWithType2 = CO2Record(secondRecord._1, secondRecord._2, secondRecord._3)
     val co2RecordWithType3 = CO2Record(thirdRecord._1, thirdRecord._2, thirdRecord._3)
